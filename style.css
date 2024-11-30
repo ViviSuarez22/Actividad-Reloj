@@ -1,18 +1,11 @@
-* {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-}
 
 main {
-    margin-top: 10vh;
     width: 50%;
     margin-left: auto;
     margin-right: auto;
     padding: 5% 0;
 }
 
-/* Estilos por clases */
 
 .reloj {
     width: 75%;
